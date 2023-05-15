@@ -1,1 +1,7 @@
-﻿﻿this is from https://github.com/qhm123/POI-Android pptx. part.I modify some, to make it build with gradle .更新gradle版本和Android sdk版本
+﻿﻿### AndroidPptxViewer
+
+Fork from https://github.com/orient33/androidPPTXreader.
+
+
+
+
